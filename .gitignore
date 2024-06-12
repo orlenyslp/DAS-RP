@@ -1,5 +1,9 @@
+out/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
+.idea
+poetry.lock
 *.py[cod]
 *$py.class
 

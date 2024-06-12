@@ -1,0 +1,296 @@
+{
+  "task_resource_distribution": [
+    {
+      "task_id": "sid-9703AD2C-3219-4B4A-9A91-F4A81EF91130",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 1 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "sid-B27E434D-3A46-46FE-94DE-184C179BE525",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 2 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "sid-8BCCD9BA-2B23-44CA-BB32-4988807D3161",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 3 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "sid-543CE27B-717A-4583-8BFE-09BF2267ACFC",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 4 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "sid-9F775FDB-CD87-40D7-8B8D-DFD50176CE88",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 5 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "sid-5CEDFABE-7E6F-450C-B84E-11C9917AB563",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 6 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "sid-BA8B9C72-48FE-4FF1-A2F9-DE78C836A612",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 7 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "sid-9726C026-BDE7-4467-B613-EB951D1FE613",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 8 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "sid-034F28AB-5EBC-4336-82BD-4FE7A525CCE2",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 9 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "sid-16B45990-F522-4EA9-A01A-70EE8D0C9EC5",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 10 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "sid-43A3A3DC-EAE7-42F0-946E-845B3C981850",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 11 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "sid-30EFC8A9-15F6-45A1-B0FE-C9B37FC92D36",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 12 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "sid-AD68767C-968B-4DCD-821E-3F5C5C3D0D04",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 13 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_065abi2",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 14 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_1y2vzu0",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 15 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_0jlejy4",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 16 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_08elxi9",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 17 }],
+          "resource_id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1"
+        }
+      ]
+    }
+  ],
+  "resource_calendars": [
+    {
+      "id": "sid-01a52570-6055-4e44-ae65-fc70c28c7cea",
+      "name": "default schedule",
+      "time_periods": [
+        {
+          "from": "MONDAY",
+          "to": "FRIDAY",
+          "beginTime": "00:00:00.000",
+          "endTime": "23:59:00.000"
+        }
+      ]
+    }
+  ],
+  "gateway_branching_probabilities": [
+    {
+      "gateway_id": "sid-112BF415-63F3-473C-B4DA-440EBF13D7D8",
+      "probabilities": [
+        { "path_id": "sid-BCF61F61-A6CF-4966-A388-3AE2E521BF21", "value": "1" }
+      ]
+    },
+    {
+      "gateway_id": "sid-D537CF9E-CB8A-4188-80DE-1CA903F38436",
+      "probabilities": [
+        {
+          "path_id": "sid-92B5B1F2-7B5C-45A9-8C6B-BCC1E0490D99",
+          "value": "0.5"
+        },
+        {
+          "path_id": "sid-F4C85F4E-A227-4D05-AE55-5ACD9A2CF15F",
+          "value": "0.5"
+        }
+      ]
+    },
+    {
+      "gateway_id": "sid-79AFF435-717A-4C1E-87FA-D002372D2251",
+      "probabilities": [
+        {
+          "path_id": "sid-B04F2DE9-EE3E-4AC6-8470-B22F242E48AE",
+          "value": "0.5"
+        },
+        {
+          "path_id": "sid-20A44905-F224-4AC2-8D6E-B25B4416D362",
+          "value": "0.5"
+        }
+      ]
+    },
+    {
+      "gateway_id": "sid-B5A27A5A-671A-4D2B-9A75-33400841CC86",
+      "probabilities": [
+        {
+          "path_id": "sid-480AB19B-10F2-4B66-B988-43C2B48426CF",
+          "value": "0.5"
+        },
+        {
+          "path_id": "sid-290AEED6-5AC4-4042-AF51-143329457626",
+          "value": "0.5"
+        }
+      ]
+    },
+    {
+      "gateway_id": "Gateway_0eqakhv",
+      "probabilities": [
+        { "path_id": "Flow_0mpn0oz", "value": "0.5" },
+        { "path_id": "Flow_1ltuf1s", "value": "0.5" }
+      ]
+    },
+    {
+      "gateway_id": "Gateway_19i0y6i",
+      "probabilities": [{ "path_id": "Flow_1r8fzw8", "value": "1" }]
+    },
+    {
+      "gateway_id": "Gateway_0qwo8ck",
+      "probabilities": [{ "path_id": "Flow_1b31t55", "value": "1" }]
+    }
+  ],
+  "arrival_time_distribution": {
+    "distribution_name": "uniform",
+    "distribution_params": [{ "value": 1 }, { "value": 20 }]
+  },
+  "arrival_time_calendar": [
+    {
+      "from": "MONDAY",
+      "to": "FRIDAY",
+      "beginTime": "00:00:00.000",
+      "endTime": "23:59:00.000"
+    }
+  ],
+  "resource_profiles": [
+    {
+      "id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb",
+      "name": "Default resource profile",
+      "resource_list": [
+        {
+          "id": "sid-850f0286-3deb-4bcc-a58c-35b7d94e91bb_1",
+          "name": "Default resource profile 1",
+          "cost_per_hour": "1",
+          "amount": 1,
+          "calendar": "sid-01a52570-6055-4e44-ae65-fc70c28c7cea",
+          "assignedTasks": []
+        }
+      ]
+    }
+  ],
+  "event_distribution": [],
+  "batch_processing": [],
+  "case_attributes": [
+    { "name": "fixed_value", "type": "continuous", "values": {"distribution_name": "fix", "distribution_params": [{"value": 100}]} },
+    { "name": "exp_dist", "type": "continuous", "values": {"distribution_name": "expon", "distribution_params": [{"value": 50}, {"value": 0}, {"value": 100}]}},
+    { "name": "norm_dist", "type": "continuous", "values": {"distribution_name": "norm", "distribution_params": [{"value": 50}, {"value": 20}, {"value": 0}, {"value": 100}]}},
+    { "name": "uni_dist", "type": "continuous", "values": {"distribution_name": "uniform", "distribution_params": [{"value": 0}, {"value": 100}]}},
+    { "name": "cat_2_eq", "type": "discrete", "values": [{"key": "A", "value": 0.5}, {"key": "B", "value": 0.5}]},
+    { "name": "cat_2_non_eq", "type": "discrete", "values": [{"key": "A", "value": 0.8}, {"key": "B", "value": 0.2}]},
+    { "name": "cat_5_eq", "type": "discrete", "values": [{"key": "A", "value": 0.2}, {"key": "B", "value": 0.2}, {"key": "C", "value": 0.2}, {"key": "D", "value": 0.2}, {"key": "E", "value": 0.2}]},
+    { "name": "cat_5_non_eq", "type": "discrete", "values": [{"key": "A", "value": 0.1}, {"key": "B", "value": 0.15}, {"key": "C", "value": 0.2}, {"key": "D", "value": 0.25}, {"key": "E", "value": 0.3}]},
+    { "name": "cat_10_eq", "type": "discrete", "values": [{"key": "A", "value": 0.1}, {"key": "B", "value": 0.1}, {"key": "C", "value": 0.1}, {"key": "D", "value": 0.1}, {"key": "E", "value": 0.1}, {"key": "F", "value": 0.1}, {"key": "G", "value": 0.1}, {"key": "H", "value": 0.1}, {"key": "I", "value": 0.1}, {"key": "J", "value": 0.1}]},
+    { "name": "cat_10_non_eq", "type": "discrete", "values": [{"key": "A", "value": 0.01}, {"key": "B", "value": 0.03}, {"key": "C", "value": 0.05}, {"key": "D", "value": 0.07}, {"key": "E", "value": 0.09}, {"key": "F", "value": 0.11}, {"key": "G", "value": 0.13}, {"key": "H", "value": 0.15}, {"key": "I", "value": 0.17}, {"key": "J", "value": 0.19}]}
+  ],
+
+  "global_attributes": [],
+  "event_attributes": [],
+  "prioritisation_rules": []
+}

@@ -1,0 +1,357 @@
+{
+  "task_resource_distribution": [
+    {
+      "task_id": "Activity_1otg2lt",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 900 }],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_1tf3i1k",
+      "resources": [
+        {
+          "distribution_name": "norm",
+          "distribution_params": [
+            { "value": 4680 },
+            { "value": 3600 },
+            { "value": 3600 },
+            { "value": 10800 }
+          ],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_0unppem",
+      "resources": [
+        {
+          "distribution_name": "expon",
+          "distribution_params": [
+            { "value": 5760 },
+            { "value": 3600 },
+            { "value": 10800 }
+          ],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_0cdprsj",
+      "resources": [
+        {
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 6840 },
+            { "value": 3600 },
+            { "value": 3600 },
+            { "value": 10800 }
+          ],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_02s64qu",
+      "resources": [
+        {
+          "distribution_name": "expon",
+          "distribution_params": [
+            { "value": 7920 },
+            { "value": 3600 },
+            { "value": 10800 }
+          ],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_0eh6iab",
+      "resources": [
+        {
+          "distribution_name": "norm",
+          "distribution_params": [
+            { "value": 9000 },
+            { "value": 3600 },
+            { "value": 3600 },
+            { "value": 10800 }
+          ],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_1hf6wrk",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 900 }],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_1ya6u9l",
+      "resources": [
+        {
+          "distribution_name": "norm",
+          "distribution_params": [
+            { "value": 5760 },
+            { "value": 3600 },
+            { "value": 3600 },
+            { "value": 21600 }
+          ],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_039k21w",
+      "resources": [
+        {
+          "distribution_name": "expon",
+          "distribution_params": [
+            { "value": 7920 },
+            { "value": 3600 },
+            { "value": 21600 }
+          ],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_0nclu5a",
+      "resources": [
+        {
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 10080 },
+            { "value": 3600 },
+            { "value": 3600 },
+            { "value": 21600 }
+          ],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_1fpbba8",
+      "resources": [
+        {
+          "distribution_name": "expon",
+          "distribution_params": [
+            { "value": 12240 },
+            { "value": 3600 },
+            { "value": 21600 }
+          ],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_19a6vsa",
+      "resources": [
+        {
+          "distribution_name": "norm",
+          "distribution_params": [
+            { "value": 14400 },
+            { "value": 3600 },
+            { "value": 3600 },
+            { "value": 21600 }
+          ],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_07qkwcr",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 900 }],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_0mvw3oh",
+      "resources": [
+        {
+          "distribution_name": "norm",
+          "distribution_params": [
+            { "value": 6840 },
+            { "value": 3600 },
+            { "value": 3600 },
+            { "value": 32400 }
+          ],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_0owdu9v",
+      "resources": [
+        {
+          "distribution_name": "expon",
+          "distribution_params": [
+            { "value": 10080 },
+            { "value": 3600 },
+            { "value": 32400 }
+          ],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_00xyqup",
+      "resources": [
+        {
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 13320 },
+            { "value": 3600 },
+            { "value": 3600 },
+            { "value": 32400 }
+          ],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_1esy11j",
+      "resources": [
+        {
+          "distribution_name": "expon",
+          "distribution_params": [
+            { "value": 16560 },
+            { "value": 3600 },
+            { "value": 32400 }
+          ],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_0p2n9ta",
+      "resources": [
+        {
+          "distribution_name": "norm",
+          "distribution_params": [
+            { "value": 20520 },
+            { "value": 3600 },
+            { "value": 3600 },
+            { "value": 32400 }
+          ],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    },
+    {
+      "task_id": "Activity_1s9igkn",
+      "resources": [
+        {
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 900 }],
+          "resource_id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1"
+        }
+      ]
+    }
+  ],
+  "resource_calendars": [
+    {
+      "id": "sid-ed8b02ca-5a60-42a3-863d-7063124e6e9a",
+      "name": "default schedule",
+      "time_periods": [
+        {
+          "from": "MONDAY",
+          "to": "SUNDAY",
+          "beginTime": "00:00:00.000",
+          "endTime": "23:59:00.000"
+        }
+      ]
+    }
+  ],
+  "gateway_branching_probabilities": [
+    {
+      "gateway_id": "Gateway_00s2akp",
+      "probabilities": [
+        { "path_id": "Flow_0n2s5vp", "value": "0.2", "condition_id": "c1_1" },
+        { "path_id": "Flow_0soxp11", "value": "0.2", "condition_id": "c1_2" },
+        { "path_id": "Flow_1s30srz", "value": "0.2", "condition_id": "c1_3" },
+        { "path_id": "Flow_1dpz071", "value": "0.2", "condition_id": "c1_4" },
+        { "path_id": "Flow_1c9y4tt", "value": "0.2", "condition_id": "c1_5" }
+      ]
+    },
+    {
+      "gateway_id": "Gateway_1lqe7xu",
+      "probabilities": [{ "path_id": "Flow_09ykvoz", "value": "1" }]
+    },
+    {
+      "gateway_id": "Gateway_0m31qm9",
+      "probabilities": [
+        { "path_id": "Flow_00r7i8p", "value": "0.2", "condition_id": "c2_1" },
+        { "path_id": "Flow_0aggkf3", "value": "0.2", "condition_id": "c2_2" },
+        { "path_id": "Flow_1dn1o8l", "value": "0.2", "condition_id": "c2_3" },
+        { "path_id": "Flow_0mjbtxw", "value": "0.2", "condition_id": "c2_4" },
+        { "path_id": "Flow_0v35org", "value": "0.2", "condition_id": "c2_5" }
+      ]
+    },
+    {
+      "gateway_id": "Gateway_1x2zdoy",
+      "probabilities": [{ "path_id": "Flow_1jy76gi", "value": "1" }]
+    },
+    {
+      "gateway_id": "Gateway_0exep4n",
+      "probabilities": [
+        { "path_id": "Flow_0ke58uw", "value": "0.2", "condition_id": "c3_1" },
+        { "path_id": "Flow_0scx59i", "value": "0.2", "condition_id": "c3_2" },
+        { "path_id": "Flow_18cml4m", "value": "0.2", "condition_id": "c3_3" },
+        { "path_id": "Flow_1jz8xih", "value": "0.2", "condition_id": "c3_4" },
+        { "path_id": "Flow_1vylh4c", "value": "0.2", "condition_id": "c3_5" }
+      ]
+    },
+    {
+      "gateway_id": "Gateway_1c23dmw",
+      "probabilities": [{ "path_id": "Flow_1jwqbfj", "value": "1" }]
+    }
+  ],
+  "arrival_time_distribution": {
+    "distribution_name": "norm",
+    "distribution_params": [
+      { "value": 10800 },
+      { "value": 3600 },
+      { "value": 1800 },
+      { "value": 43200 }
+    ]
+  },
+  "arrival_time_calendar": [
+    {
+      "from": "MONDAY",
+      "to": "SUNDAY",
+      "beginTime": "00:00:00.000",
+      "endTime": "23:59:00.000"
+    }
+  ],
+  "resource_profiles": [
+    {
+      "id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4",
+      "name": "Default resource profile",
+      "resource_list": [
+        {
+          "id": "sid-39dd58b7-b597-40db-bd49-7023a52d18f4_1",
+          "name": "Default resource profile 1",
+          "cost_per_hour": "1",
+          "amount": 100,
+          "calendar": "sid-ed8b02ca-5a60-42a3-863d-7063124e6e9a",
+          "assignedTasks": []
+        }
+      ]
+    }
+  ],
+  "event_distribution": [],
+  "batch_processing": [],
+  "case_attributes": []
+}

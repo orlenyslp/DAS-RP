@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "icpm24"
+version = "0.1.0"
+description = ""
+authors = ["Simple Squirrel <simplesquirrellearn@gmail.com>"]
+readme = "README.md"
+packages = [
+    { include = "scripts", from = "src" },
+    { include = "discovery", from = "src" }
+]
+
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.12"
+numpy = "^1.26.4"
+pandas = "^2.2.2"
+pulp = "^2.7.0"
+prosimos = {git = "https://github.com/AutomatedProcessImprovement/Prosimos.git", rev = "update_rules"}
+log-distance-measures = {git = "https://github.com/AutomatedProcessImprovement/log-distance-measures.git", rev = "main"}
+m5py = "^0.3.3"
+matplotlib = "^3.9.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+real-life = "scripts.runners.run_life:run_life"
+data-attributes = "scripts.runners.run_data_attributes:run_data_attributes"
+branching-conditions = "scripts.runners.run_branching_conditions:run_branching_conditions"

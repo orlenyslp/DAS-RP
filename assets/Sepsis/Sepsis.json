@@ -1,0 +1,1644 @@
+{
+  "process_model": "D:\\_est\\Simod\\Simod\\outputs\\20240524_143447_1390C468_7DAB_4005_AF29_BC3DF2ABEA72\\best_result\\Sepsis_train.bpmn",
+  "gateway_branching_probabilities": [
+    {
+      "gateway_id": "node12",
+      "probabilities": [
+        { "path_id": "edge63", "value": 0.01 },
+        { "path_id": "edge68", "value": 0.99 }
+      ]
+    },
+    {
+      "gateway_id": "node16",
+      "probabilities": [
+        { "path_id": "edge47", "value": 0.964200477326969 },
+        { "path_id": "edge55", "value": 0.01909307875894988 },
+        { "path_id": "edge58", "value": 0.016706443914081145 }
+      ]
+    },
+    {
+      "gateway_id": "node33",
+      "probabilities": [
+        { "path_id": "edge15", "value": 0.5837988826815642 },
+        { "path_id": "edge45", "value": 0.41620111731843573 }
+      ]
+    },
+    {
+      "gateway_id": "node42",
+      "probabilities": [
+        { "path_id": "edge38", "value": 0.03260869565217391 },
+        { "path_id": "edge41", "value": 0.19021739130434784 },
+        { "path_id": "edge71", "value": 0.7771739130434783 }
+      ]
+    },
+    {
+      "gateway_id": "node44",
+      "probabilities": [
+        { "path_id": "edge7", "value": 0.9802690582959641 },
+        { "path_id": "edge49", "value": 0.019730941704035873 }
+      ]
+    },
+    {
+      "gateway_id": "node45",
+      "probabilities": [
+        { "path_id": "edge44", "value": 0.01 },
+        { "path_id": "edge61", "value": 0.37961538461538463 },
+        { "path_id": "edge62", "value": 0.6103846153846154 }
+      ]
+    },
+    {
+      "gateway_id": "node46",
+      "probabilities": [
+        { "path_id": "edge66", "value": 0.696969696969697 },
+        { "path_id": "edge74", "value": 0.30303030303030304 }
+      ]
+    },
+    {
+      "gateway_id": "node50",
+      "probabilities": [
+        { "path_id": "edge77", "value": 0.3891108891108891 },
+        { "path_id": "edge111", "value": 0.00999000999000999 },
+        { "path_id": "edge112", "value": 0.35514485514485516 },
+        { "path_id": "edge113", "value": 0.24575424575424576 }
+      ]
+    },
+    {
+      "gateway_id": "node52",
+      "probabilities": [
+        { "path_id": "edge82", "value": 0.30995792426367463 },
+        { "path_id": "edge114", "value": 0.2664796633941094 },
+        { "path_id": "edge115", "value": 0.423562412342216 }
+      ]
+    },
+    {
+      "gateway_id": "node54",
+      "probabilities": [
+        { "path_id": "edge87", "value": 0.1711864406779661 },
+        { "path_id": "edge116", "value": 0.21694915254237288 },
+        { "path_id": "edge117", "value": 0.022033898305084745 },
+        { "path_id": "edge118", "value": 0.011864406779661017 },
+        { "path_id": "edge119", "value": 0.022033898305084745 },
+        { "path_id": "edge120", "value": 0.5559322033898305 }
+      ]
+    },
+    {
+      "gateway_id": "node56",
+      "probabilities": [
+        { "path_id": "edge92", "value": 0.5469903865018638 },
+        { "path_id": "edge121", "value": 0.01 },
+        { "path_id": "edge122", "value": 0.4333941534235825 },
+        { "path_id": "edge123", "value": 0.009615460074553658 }
+      ]
+    },
+    {
+      "gateway_id": "node58",
+      "probabilities": [
+        { "path_id": "edge96", "value": 0.4444444444444444 },
+        { "path_id": "edge97", "value": 0.5555555555555556 }
+      ]
+    }
+  ],
+  "arrival_time_calendar": [
+    {
+      "from": "MONDAY",
+      "to": "MONDAY",
+      "beginTime": "01:00:00",
+      "endTime": "02:00:00"
+    },
+    {
+      "from": "MONDAY",
+      "to": "MONDAY",
+      "beginTime": "10:00:00",
+      "endTime": "20:00:00"
+    },
+    {
+      "from": "MONDAY",
+      "to": "MONDAY",
+      "beginTime": "21:00:00",
+      "endTime": "23:00:00"
+    },
+    {
+      "from": "TUESDAY",
+      "to": "TUESDAY",
+      "beginTime": "01:00:00",
+      "endTime": "02:00:00"
+    },
+    {
+      "from": "TUESDAY",
+      "to": "TUESDAY",
+      "beginTime": "10:00:00",
+      "endTime": "11:00:00"
+    },
+    {
+      "from": "TUESDAY",
+      "to": "TUESDAY",
+      "beginTime": "12:00:00",
+      "endTime": "19:00:00"
+    },
+    {
+      "from": "TUESDAY",
+      "to": "TUESDAY",
+      "beginTime": "23:00:00",
+      "endTime": "23:59:59.999000"
+    },
+    {
+      "from": "WEDNESDAY",
+      "to": "WEDNESDAY",
+      "beginTime": "10:00:00",
+      "endTime": "13:00:00"
+    },
+    {
+      "from": "WEDNESDAY",
+      "to": "WEDNESDAY",
+      "beginTime": "14:00:00",
+      "endTime": "19:00:00"
+    },
+    {
+      "from": "WEDNESDAY",
+      "to": "WEDNESDAY",
+      "beginTime": "21:00:00",
+      "endTime": "22:00:00"
+    },
+    {
+      "from": "WEDNESDAY",
+      "to": "WEDNESDAY",
+      "beginTime": "23:00:00",
+      "endTime": "23:59:59.999000"
+    },
+    {
+      "from": "THURSDAY",
+      "to": "THURSDAY",
+      "beginTime": "00:00:00",
+      "endTime": "01:00:00"
+    },
+    {
+      "from": "THURSDAY",
+      "to": "THURSDAY",
+      "beginTime": "12:00:00",
+      "endTime": "16:00:00"
+    },
+    {
+      "from": "THURSDAY",
+      "to": "THURSDAY",
+      "beginTime": "17:00:00",
+      "endTime": "19:00:00"
+    },
+    {
+      "from": "THURSDAY",
+      "to": "THURSDAY",
+      "beginTime": "20:00:00",
+      "endTime": "23:59:59.999000"
+    },
+    {
+      "from": "FRIDAY",
+      "to": "FRIDAY",
+      "beginTime": "00:00:00",
+      "endTime": "01:00:00"
+    },
+    {
+      "from": "FRIDAY",
+      "to": "FRIDAY",
+      "beginTime": "08:00:00",
+      "endTime": "09:00:00"
+    },
+    {
+      "from": "FRIDAY",
+      "to": "FRIDAY",
+      "beginTime": "10:00:00",
+      "endTime": "11:00:00"
+    },
+    {
+      "from": "FRIDAY",
+      "to": "FRIDAY",
+      "beginTime": "12:00:00",
+      "endTime": "16:00:00"
+    },
+    {
+      "from": "SATURDAY",
+      "to": "SATURDAY",
+      "beginTime": "00:00:00",
+      "endTime": "01:00:00"
+    },
+    {
+      "from": "SATURDAY",
+      "to": "SATURDAY",
+      "beginTime": "09:00:00",
+      "endTime": "14:00:00"
+    },
+    {
+      "from": "SATURDAY",
+      "to": "SATURDAY",
+      "beginTime": "16:00:00",
+      "endTime": "23:59:59.999000"
+    },
+    {
+      "from": "SUNDAY",
+      "to": "SUNDAY",
+      "beginTime": "11:00:00",
+      "endTime": "19:00:00"
+    },
+    {
+      "from": "SUNDAY",
+      "to": "SUNDAY",
+      "beginTime": "21:00:00",
+      "endTime": "23:59:59.999000"
+    }
+  ],
+  "arrival_time_distribution": {
+    "distribution_name": "gamma",
+    "distribution_params": [
+      { "value": 38831.592877767085 },
+      { "value": 2130001819.269285 },
+      { "value": 0.0 },
+      { "value": 329570.0 }
+    ]
+  },
+  "resource_profiles": [
+    {
+      "id": "Role 1_profile",
+      "name": "Role 1_profile",
+      "resource_list": [
+        {
+          "id": "I",
+          "name": "I",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "M",
+          "name": "M",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "G",
+          "name": "G",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "F",
+          "name": "F",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "O",
+          "name": "O",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "Q",
+          "name": "Q",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "N",
+          "name": "N",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "D",
+          "name": "D",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "R",
+          "name": "R",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "H",
+          "name": "H",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "S",
+          "name": "S",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "V",
+          "name": "V",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "T",
+          "name": "T",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "X",
+          "name": "X",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "K",
+          "name": "K",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "J",
+          "name": "J",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        },
+        {
+          "id": "U",
+          "name": "U",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 1_profile_calendar",
+          "assignedTasks": ["node4", "node38"]
+        }
+      ]
+    },
+    {
+      "id": "Role 2_profile",
+      "name": "Role 2_profile",
+      "resource_list": [
+        {
+          "id": "A",
+          "name": "A",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Undifferentiated_calendar",
+          "assignedTasks": ["node20", "node31", "node34", "node36"]
+        },
+        {
+          "id": "L",
+          "name": "L",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Undifferentiated_calendar",
+          "assignedTasks": ["node20", "node31", "node34", "node36"]
+        }
+      ]
+    },
+    {
+      "id": "Role 3_profile",
+      "name": "Role 3_profile",
+      "resource_list": [
+        {
+          "id": "P",
+          "name": "P",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Undifferentiated_calendar",
+          "assignedTasks": ["node38", "node4"]
+        },
+        {
+          "id": "W",
+          "name": "W",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Undifferentiated_calendar",
+          "assignedTasks": ["node38", "node4"]
+        }
+      ]
+    },
+    {
+      "id": "Role 4_profile",
+      "name": "Role 4_profile",
+      "resource_list": [
+        {
+          "id": "C",
+          "name": "C",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Undifferentiated_calendar",
+          "assignedTasks": ["node41"]
+        }
+      ]
+    },
+    {
+      "id": "Role 5_profile",
+      "name": "Role 5_profile",
+      "resource_list": [
+        {
+          "id": "B",
+          "name": "B",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 5_profile_calendar",
+          "assignedTasks": ["node1", "node19", "node3"]
+        }
+      ]
+    },
+    {
+      "id": "Role 6_profile",
+      "name": "Role 6_profile",
+      "resource_list": [
+        {
+          "id": "E",
+          "name": "E",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Role 6_profile_calendar",
+          "assignedTasks": ["node26", "node10", "node7", "node13", "node29"]
+        }
+      ]
+    },
+    {
+      "id": "Role 7_profile",
+      "name": "Role 7_profile",
+      "resource_list": [
+        {
+          "id": "?",
+          "name": "?",
+          "amount": 1,
+          "cost_per_hour": 20,
+          "calendar": "Undifferentiated_calendar",
+          "assignedTasks": ["node47"]
+        }
+      ]
+    }
+  ],
+  "resource_calendars": [
+    {
+      "id": "Role 1_profile_calendar",
+      "name": "Role 1_profile_calendar",
+      "time_periods": [
+        {
+          "from": "MONDAY",
+          "to": "MONDAY",
+          "beginTime": "00:40:00",
+          "endTime": "01:00:00"
+        },
+        {
+          "from": "MONDAY",
+          "to": "MONDAY",
+          "beginTime": "12:00:00",
+          "endTime": "16:40:00"
+        },
+        {
+          "from": "MONDAY",
+          "to": "MONDAY",
+          "beginTime": "18:40:00",
+          "endTime": "19:00:00"
+        },
+        {
+          "from": "MONDAY",
+          "to": "MONDAY",
+          "beginTime": "21:20:00",
+          "endTime": "22:00:00"
+        },
+        {
+          "from": "MONDAY",
+          "to": "MONDAY",
+          "beginTime": "17:20:00",
+          "endTime": "18:00:00"
+        },
+        {
+          "from": "TUESDAY",
+          "to": "TUESDAY",
+          "beginTime": "12:00:00",
+          "endTime": "16:40:00"
+        },
+        {
+          "from": "WEDNESDAY",
+          "to": "WEDNESDAY",
+          "beginTime": "12:00:00",
+          "endTime": "16:40:00"
+        },
+        {
+          "from": "WEDNESDAY",
+          "to": "WEDNESDAY",
+          "beginTime": "17:20:00",
+          "endTime": "18:00:00"
+        },
+        {
+          "from": "WEDNESDAY",
+          "to": "WEDNESDAY",
+          "beginTime": "21:20:00",
+          "endTime": "22:00:00"
+        },
+        {
+          "from": "WEDNESDAY",
+          "to": "WEDNESDAY",
+          "beginTime": "18:40:00",
+          "endTime": "19:00:00"
+        },
+        {
+          "from": "THURSDAY",
+          "to": "THURSDAY",
+          "beginTime": "00:00:00",
+          "endTime": "22:40:00"
+        },
+        {
+          "from": "FRIDAY",
+          "to": "FRIDAY",
+          "beginTime": "12:00:00",
+          "endTime": "12:40:00"
+        },
+        {
+          "from": "FRIDAY",
+          "to": "FRIDAY",
+          "beginTime": "14:40:00",
+          "endTime": "15:00:00"
+        },
+        {
+          "from": "FRIDAY",
+          "to": "FRIDAY",
+          "beginTime": "15:20:00",
+          "endTime": "16:00:00"
+        },
+        {
+          "from": "FRIDAY",
+          "to": "FRIDAY",
+          "beginTime": "16:40:00",
+          "endTime": "17:00:00"
+        },
+        {
+          "from": "SATURDAY",
+          "to": "SATURDAY",
+          "beginTime": "12:00:00",
+          "endTime": "12:40:00"
+        },
+        {
+          "from": "SATURDAY",
+          "to": "SATURDAY",
+          "beginTime": "18:40:00",
+          "endTime": "19:00:00"
+        },
+        {
+          "from": "SATURDAY",
+          "to": "SATURDAY",
+          "beginTime": "15:20:00",
+          "endTime": "16:00:00"
+        },
+        {
+          "from": "SATURDAY",
+          "to": "SATURDAY",
+          "beginTime": "21:20:00",
+          "endTime": "22:00:00"
+        },
+        {
+          "from": "SUNDAY",
+          "to": "SUNDAY",
+          "beginTime": "12:00:00",
+          "endTime": "16:40:00"
+        }
+      ]
+    },
+    {
+      "id": "Role 5_profile_calendar",
+      "name": "Role 5_profile_calendar",
+      "time_periods": [
+        {
+          "from": "MONDAY",
+          "to": "MONDAY",
+          "beginTime": "08:00:00",
+          "endTime": "08:40:00"
+        },
+        {
+          "from": "TUESDAY",
+          "to": "TUESDAY",
+          "beginTime": "08:00:00",
+          "endTime": "08:40:00"
+        },
+        {
+          "from": "WEDNESDAY",
+          "to": "WEDNESDAY",
+          "beginTime": "08:40:00",
+          "endTime": "09:00:00"
+        },
+        {
+          "from": "THURSDAY",
+          "to": "THURSDAY",
+          "beginTime": "08:00:00",
+          "endTime": "08:40:00"
+        },
+        {
+          "from": "FRIDAY",
+          "to": "FRIDAY",
+          "beginTime": "08:00:00",
+          "endTime": "08:40:00"
+        },
+        {
+          "from": "SATURDAY",
+          "to": "SATURDAY",
+          "beginTime": "08:00:00",
+          "endTime": "08:40:00"
+        },
+        {
+          "from": "SUNDAY",
+          "to": "SUNDAY",
+          "beginTime": "08:00:00",
+          "endTime": "08:40:00"
+        }
+      ]
+    },
+    {
+      "id": "Role 6_profile_calendar",
+      "name": "Role 6_profile_calendar",
+      "time_periods": [
+        {
+          "from": "MONDAY",
+          "to": "MONDAY",
+          "beginTime": "05:20:00",
+          "endTime": "06:00:00"
+        },
+        {
+          "from": "MONDAY",
+          "to": "MONDAY",
+          "beginTime": "10:00:00",
+          "endTime": "12:40:00"
+        },
+        {
+          "from": "MONDAY",
+          "to": "MONDAY",
+          "beginTime": "14:40:00",
+          "endTime": "15:00:00"
+        },
+        {
+          "from": "TUESDAY",
+          "to": "TUESDAY",
+          "beginTime": "10:40:00",
+          "endTime": "11:00:00"
+        },
+        {
+          "from": "TUESDAY",
+          "to": "TUESDAY",
+          "beginTime": "14:40:00",
+          "endTime": "15:00:00"
+        },
+        {
+          "from": "WEDNESDAY",
+          "to": "WEDNESDAY",
+          "beginTime": "10:00:00",
+          "endTime": "12:40:00"
+        },
+        {
+          "from": "THURSDAY",
+          "to": "THURSDAY",
+          "beginTime": "10:40:00",
+          "endTime": "11:00:00"
+        },
+        {
+          "from": "THURSDAY",
+          "to": "THURSDAY",
+          "beginTime": "12:00:00",
+          "endTime": "12:40:00"
+        },
+        {
+          "from": "FRIDAY",
+          "to": "FRIDAY",
+          "beginTime": "10:40:00",
+          "endTime": "11:00:00"
+        },
+        {
+          "from": "FRIDAY",
+          "to": "FRIDAY",
+          "beginTime": "12:00:00",
+          "endTime": "20:40:00"
+        },
+        {
+          "from": "SATURDAY",
+          "to": "SATURDAY",
+          "beginTime": "12:40:00",
+          "endTime": "13:00:00"
+        },
+        {
+          "from": "SATURDAY",
+          "to": "SATURDAY",
+          "beginTime": "10:40:00",
+          "endTime": "11:00:00"
+        },
+        {
+          "from": "SATURDAY",
+          "to": "SATURDAY",
+          "beginTime": "14:00:00",
+          "endTime": "14:40:00"
+        },
+        {
+          "from": "SUNDAY",
+          "to": "SUNDAY",
+          "beginTime": "10:40:00",
+          "endTime": "11:00:00"
+        },
+        {
+          "from": "SUNDAY",
+          "to": "SUNDAY",
+          "beginTime": "14:00:00",
+          "endTime": "14:40:00"
+        }
+      ]
+    },
+    {
+      "id": "Undifferentiated_calendar",
+      "name": "Undifferentiated_calendar",
+      "time_periods": [
+        {
+          "from": "MONDAY",
+          "to": "MONDAY",
+          "beginTime": "08:00:00",
+          "endTime": "12:40:00"
+        },
+        {
+          "from": "MONDAY",
+          "to": "MONDAY",
+          "beginTime": "21:20:00",
+          "endTime": "22:00:00"
+        },
+        {
+          "from": "TUESDAY",
+          "to": "TUESDAY",
+          "beginTime": "08:00:00",
+          "endTime": "14:40:00"
+        },
+        {
+          "from": "WEDNESDAY",
+          "to": "WEDNESDAY",
+          "beginTime": "08:00:00",
+          "endTime": "16:40:00"
+        },
+        {
+          "from": "THURSDAY",
+          "to": "THURSDAY",
+          "beginTime": "08:00:00",
+          "endTime": "16:40:00"
+        },
+        {
+          "from": "FRIDAY",
+          "to": "FRIDAY",
+          "beginTime": "08:00:00",
+          "endTime": "20:40:00"
+        },
+        {
+          "from": "SATURDAY",
+          "to": "SATURDAY",
+          "beginTime": "08:00:00",
+          "endTime": "12:40:00"
+        },
+        {
+          "from": "SATURDAY",
+          "to": "SATURDAY",
+          "beginTime": "19:20:00",
+          "endTime": "20:00:00"
+        },
+        {
+          "from": "SUNDAY",
+          "to": "SUNDAY",
+          "beginTime": "08:00:00",
+          "endTime": "12:40:00"
+        },
+        {
+          "from": "SUNDAY",
+          "to": "SUNDAY",
+          "beginTime": "16:40:00",
+          "endTime": "17:00:00"
+        },
+        {
+          "from": "SUNDAY",
+          "to": "SUNDAY",
+          "beginTime": "21:20:00",
+          "endTime": "22:00:00"
+        }
+      ]
+    }
+  ],
+  "task_resource_distribution": [
+    {
+      "task_id": "node38",
+      "resources": [
+        {
+          "resource_id": "I",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "M",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "G",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "F",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "O",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "Q",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "N",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "D",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "R",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "H",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "S",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "V",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "T",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "X",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "K",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "J",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "U",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 461878.142876142 },
+            { "value": 303652478541.85956 },
+            { "value": 1799.0 },
+            { "value": 1540476.000061994 }
+          ]
+        },
+        {
+          "resource_id": "P",
+          "distribution_name": "expon",
+          "distribution_params": [
+            { "value": 179554.98039870593 },
+            { "value": 2400.0 },
+            { "value": 658800.0000230002 }
+          ]
+        },
+        {
+          "resource_id": "W",
+          "distribution_name": "expon",
+          "distribution_params": [
+            { "value": 179554.98039870593 },
+            { "value": 2400.0 },
+            { "value": 658800.0000230002 }
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "node4",
+      "resources": [
+        {
+          "resource_id": "I",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "M",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "G",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "F",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "O",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "Q",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "N",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "D",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "R",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "H",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "S",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "V",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "T",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "X",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "K",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "J",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "U",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 142319.0652979021 },
+            { "value": 63316009596.129295 },
+            { "value": 0.0 },
+            { "value": 3112216.0001280075 }
+          ]
+        },
+        {
+          "resource_id": "P",
+          "distribution_name": "uniform",
+          "distribution_params": [
+            { "value": 59030.000002 },
+            { "value": 544320.0000200002 }
+          ]
+        },
+        {
+          "resource_id": "W",
+          "distribution_name": "uniform",
+          "distribution_params": [
+            { "value": 59030.000002 },
+            { "value": 544320.0000200002 }
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "node36",
+      "resources": [
+        {
+          "resource_id": "A",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 23246.616732342416 },
+            { "value": 4276217854.7192135 },
+            { "value": 0.0 },
+            { "value": 749294.0000280002 }
+          ]
+        },
+        {
+          "resource_id": "L",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 23246.616732342416 },
+            { "value": 4276217854.7192135 },
+            { "value": 0.0 },
+            { "value": 749294.0000280002 }
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "node20",
+      "resources": [
+        {
+          "resource_id": "A",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 442.5620155193798 },
+            { "value": 2570610.7461403543 },
+            { "value": 0.0 },
+            { "value": 19200.0 }
+          ]
+        },
+        {
+          "resource_id": "L",
+          "distribution_name": "lognorm",
+          "distribution_params": [
+            { "value": 442.5620155193798 },
+            { "value": 2570610.7461403543 },
+            { "value": 0.0 },
+            { "value": 19200.0 }
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "node34",
+      "resources": [
+        {
+          "resource_id": "A",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 630.3253012385542 },
+            { "value": 4419232.113442093 },
+            { "value": 0.0 },
+            { "value": 15512.0 }
+          ]
+        },
+        {
+          "resource_id": "L",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 630.3253012385542 },
+            { "value": 4419232.113442093 },
+            { "value": 0.0 },
+            { "value": 15512.0 }
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "node31",
+      "resources": [
+        {
+          "resource_id": "A",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 1193.4016394125683 },
+            { "value": 17435367.841846652 },
+            { "value": 0.0 },
+            { "value": 62400.00000100001 }
+          ]
+        },
+        {
+          "resource_id": "L",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 1193.4016394125683 },
+            { "value": 17435367.841846652 },
+            { "value": 0.0 },
+            { "value": 62400.00000100001 }
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "node41",
+      "resources": [
+        {
+          "resource_id": "C",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 12182.232775117322 },
+            { "value": 224992341.87081757 },
+            { "value": 0.0 },
+            { "value": 80710.000002 }
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "node1",
+      "resources": [
+        {
+          "resource_id": "B",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 152.8254349628075 },
+            { "value": 334493.456688249 },
+            { "value": 0.0 },
+            { "value": 4800.000002000015 }
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "node3",
+      "resources": [
+        {
+          "resource_id": "B",
+          "distribution_name": "fix",
+          "distribution_params": [{ "value": 0.0 }]
+        }
+      ]
+    },
+    {
+      "task_id": "node19",
+      "resources": [
+        {
+          "resource_id": "B",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 165.04430012463092 },
+            { "value": 360358.96150788927 },
+            { "value": 0.0 },
+            { "value": 4800.000002000015 }
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "node26",
+      "resources": [
+        {
+          "resource_id": "E",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 6090.933754520508 },
+            { "value": 81551826.80097306 },
+            { "value": 0.0 },
+            { "value": 52800.00000400003 }
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "node10",
+      "resources": [
+        {
+          "resource_id": "E",
+          "distribution_name": "expon",
+          "distribution_params": [
+            { "value": 6371.833334166671 },
+            { "value": 0.0 },
+            { "value": 51600.00000500004 }
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "node7",
+      "resources": [
+        {
+          "resource_id": "E",
+          "distribution_name": "expon",
+          "distribution_params": [
+            { "value": 5907.692308076925 },
+            { "value": 0.0 },
+            { "value": 31200.000001 }
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "node13",
+      "resources": [
+        {
+          "resource_id": "E",
+          "distribution_name": "gamma",
+          "distribution_params": [
+            { "value": 2723.0769236153874 },
+            { "value": 13063313.611611854 },
+            { "value": 0.0 },
+            { "value": 13200.000002000015 }
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "node29",
+      "resources": [
+        {
+          "resource_id": "E",
+          "distribution_name": "uniform",
+          "distribution_params": [
+            { "value": 3600.0000010000003 },
+            { "value": 10800.000001000008 }
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "node47",
+      "resources": [
+        {
+          "resource_id": "?",
+          "distribution_name": "expon",
+          "distribution_params": [
+            { "value": 49436.87195305489 },
+            { "value": 0.0 },
+            { "value": 568495.0000200002 }
+          ]
+        }
+      ]
+    }
+  ],
+  "event_distribution": [
+    {
+      "activity": "Admission IC",
+      "event_id": "Event_87d79107-7e03-4f5c-8d74-81bed1853b05",
+      "distribution_name": "lognorm",
+      "distribution_params": [
+        { "value": 177503.9655172414 },
+        { "value": 524127903691.7919 },
+        { "value": 0.0 },
+        { "value": 4935424.0 }
+      ]
+    },
+    {
+      "activity": "Admission NC",
+      "event_id": "Event_a4efe1ea-1129-404f-b557-5bae07cdba01",
+      "distribution_name": "gamma",
+      "distribution_params": [
+        { "value": 62650.89608177172 },
+        { "value": 87697333555.51732 },
+        { "value": 0.0 },
+        { "value": 4194721.0 }
+      ]
+    },
+    {
+      "activity": "CRP",
+      "event_id": "Event_90696301-7fc8-40b5-ba86-ba8d84932b3f",
+      "distribution_name": "lognorm",
+      "distribution_params": [
+        { "value": 123838.75375375376 },
+        { "value": 55397929949.838455 },
+        { "value": 0.0 },
+        { "value": 4555358.0 }
+      ]
+    },
+    {
+      "activity": "ER Registration",
+      "event_id": "Event_b70ca46e-d52f-4dbd-84f9-b2a93915b12e",
+      "distribution_name": "gamma",
+      "distribution_params": [
+        { "value": 213430.7992202729 },
+        { "value": 280692560142.3749 },
+        { "value": 0.0 },
+        { "value": 4960435.0 }
+      ]
+    },
+    {
+      "activity": "ER Sepsis Triage",
+      "event_id": "Event_7ecefc70-b3c9-4b73-a0f3-fcd3a0d85f9a",
+      "distribution_name": "gamma",
+      "distribution_params": [
+        { "value": 152531.3585271318 },
+        { "value": 345938458358.09436 },
+        { "value": 0.0 },
+        { "value": 9502872.0 }
+      ]
+    },
+    {
+      "activity": "ER Triage",
+      "event_id": "Event_d2f6f8be-aea7-477c-877c-649189ff4fa1",
+      "distribution_name": "gamma",
+      "distribution_params": [
+        { "value": 255844.37126865672 },
+        { "value": 513444655228.33417 },
+        { "value": 0.0 },
+        { "value": 9427344.0 }
+      ]
+    },
+    {
+      "activity": "IV Antibiotics",
+      "event_id": "Event_864705b0-ac7b-4e02-9f82-61dfbcb744d6",
+      "distribution_name": "gamma",
+      "distribution_params": [
+        { "value": 18559.775903614456 },
+        { "value": 24291378483.007614 },
+        { "value": 0.0 },
+        { "value": 2652951.0 }
+      ]
+    },
+    {
+      "activity": "IV Liquid",
+      "event_id": "Event_2911e5db-f518-4119-ac18-de8b3211d467",
+      "distribution_name": "gamma",
+      "distribution_params": [
+        { "value": 68405.02465753425 },
+        { "value": 413368309330.9994 },
+        { "value": 0.0 },
+        { "value": 11063491.0 }
+      ]
+    },
+    {
+      "activity": "LacticAcid",
+      "event_id": "Event_f3dde352-3b3c-4cc1-a53d-df4110efc136",
+      "distribution_name": "lognorm",
+      "distribution_params": [
+        { "value": 97548.8793828892 },
+        { "value": 253960512498.3361 },
+        { "value": 0.0 },
+        { "value": 11061600.0 }
+      ]
+    },
+    {
+      "activity": "Leucocytes",
+      "event_id": "Event_397c807f-d976-4dbf-bb79-2fe20656b0e5",
+      "distribution_name": "lognorm",
+      "distribution_params": [
+        { "value": 125625.48874407583 },
+        { "value": 79866496875.5994 },
+        { "value": 0.0 },
+        { "value": 5372340.0 }
+      ]
+    },
+    {
+      "activity": "Release A",
+      "event_id": "Event_0a697951-34a0-4bb3-aaf5-586c73bc9084",
+      "distribution_name": "gamma",
+      "distribution_params": [
+        { "value": 156111.30599369085 },
+        { "value": 44597771684.25652 },
+        { "value": 0.0 },
+        { "value": 1659600.0 }
+      ]
+    },
+    {
+      "activity": "Release B",
+      "event_id": "Event_e13f728d-d85e-4bd0-854c-a9311a5a1076",
+      "distribution_name": "lognorm",
+      "distribution_params": [
+        { "value": 542967.9333333333 },
+        { "value": 3894765515345.994 },
+        { "value": 0.0 },
+        { "value": 11000648.0 }
+      ]
+    },
+    {
+      "activity": "Release C",
+      "event_id": "Event_5edb02a8-f9f5-4135-a7c1-6c7ad5ed995f",
+      "distribution_name": "expon",
+      "distribution_params": [
+        { "value": 347624.0833333333 },
+        { "value": 0.0 },
+        { "value": 1177200.0 }
+      ]
+    },
+    {
+      "activity": "Release D",
+      "event_id": "Event_af787136-e747-48e8-80d5-75396dc3721e",
+      "distribution_name": "norm",
+      "distribution_params": [
+        { "value": 316084.6153846154 },
+        { "value": 300294.16820115125 },
+        { "value": 0.0 },
+        { "value": 844200.0 }
+      ]
+    },
+    {
+      "activity": "Release E",
+      "event_id": "Event_95f2aaf2-1a40-4601-8be8-1c1a2bb6a30c",
+      "distribution_name": "uniform",
+      "distribution_params": [{ "value": 57780.0 }, { "value": 1561200.0 }]
+    },
+    {
+      "activity": "Return ER",
+      "event_id": "Event_7be14912-6bde-4719-9fc5-72b5e34f9fe1",
+      "distribution_name": "gamma",
+      "distribution_params": [
+        { "value": 6820854.682926829 },
+        { "value": 62612041885325.83 },
+        { "value": 0.0 },
+        { "value": 35774108.0 }
+      ]
+    }
+  ],
+  "model_type": "CRISP",
+  "granule_size": { "value": 40, "time_unit": "MINUTES" }
+}
