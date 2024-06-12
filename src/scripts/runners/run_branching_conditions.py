@@ -188,4 +188,4 @@ def run_branching_conditions():
 
     # Long term dependencies discovery
     files_to_discover = generate_model_csv_tuples(long_dependencies_path, test_range)
-    discover_and_print_for_files(discover_gateway_conditions, files_to_discover, PROSIMOS_LOG_IDS, metrics_out_dir=long_dependencies_path)
+    discover_and_print_for_files(files_to_discover, PROSIMOS_LOG_IDS, metrics_out_dir=long_dependencies_path)
