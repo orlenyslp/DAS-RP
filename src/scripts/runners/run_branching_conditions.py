@@ -71,7 +71,6 @@ def discover_and_print_for_files(file_paths, log_ids, metrics_out_dir=None):
     for file_path in file_paths:
         bpmn_model_path, event_log_path = file_path
         base_name = os.path.splitext(os.path.basename(event_log_path))[0]
-        print(base_name)
 
         if base_name not in all_metrics:
             all_metrics[base_name] = {"condition_metrics": [], "probability_metrics": []}
