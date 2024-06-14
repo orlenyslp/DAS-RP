@@ -15,7 +15,7 @@ PROSIMOS_LOG_IDS = EventLogIDs(
 )
 
 base_dir = './out/data_attributes/'
-bpmn = 'D:/_est/PIX_discovery/ICPM/loan_application.bpmn'
+bpmn = './assets/data_attribute_model.bpmn'
 
 
 def run_data_attributes():
