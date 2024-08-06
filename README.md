@@ -21,7 +21,7 @@ It includes the necessary source code, datasets, models, and execution guideline
 
 * To run the experiments consider using this commands:
   * `poetry run data-attributes` to run data attributes evaluation (synthetic logs)
-  * `poerty run branching-conditions` to run branching condition evaluation (synthetic logs)
+  * `poetry run branching-conditions` to run branching condition evaluation (synthetic logs)
   * `poetry run real-life` to run evaluation for real life logs (BPIC2019, Sepsis and Trafic cases)
 
 
